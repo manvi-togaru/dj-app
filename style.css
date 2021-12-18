@@ -1,0 +1,21 @@
+body{
+    background-image: url(https://i.pinimg.com/originals/26/05/60/260560bec350a0e2312f276878d265c8.jpg);
+}
+h3{
+    width: 100%;
+    margin: 0px;
+}
+.div_speed{
+    float: left;
+}
+.divspeedimage{
+   width: 200px;
+   border-radius: 100px;
+}
+.div_volume{
+    float: right;
+}
+.divvolumeimage{
+   width: 200px;
+   border-radius: 100px;
+}
